@@ -1,2 +1,9 @@
 # VoiceDetection
 通过esp32s3和inmp441上传语音数据到edgeimpluse个人数据采集中
+
+本项目是通过esp32s3链接网络，inmp441接收数据然后上传到edgeimpluse的个人数据收集中来训练语音模型
+开发环境ESP-IDF
+
+使用代码前请在main文件里面将自己的WIFI名称、密码改写上去
+注意引脚有没有接对，可根据自己实际需求来更换引脚
+上传数据的标签可以在main程序中x-label后更改。
