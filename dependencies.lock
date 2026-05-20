@@ -1,0 +1,15 @@
+dependencies:
+  espressif/cjson:
+    component_hash: e788323270d90738662d66fffa910bfe1fba019bba087f01557e70c40485b469
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.7.19~2
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+manifest_hash: 1fdbdf64dd6dffca232cb8db0f68ef8448af2f11ab10f322b25ec0035855f9d8
+target: esp32s3
+version: 1.0.0
