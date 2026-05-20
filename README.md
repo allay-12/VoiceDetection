@@ -1,0 +1,2 @@
+# VoiceDetection
+通过esp32s3和inmp441上传语音数据到edgeimpluse个人数据采集中
